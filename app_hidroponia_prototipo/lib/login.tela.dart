@@ -49,7 +49,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
               ),
             ),
             Container(
-              padding: const EdgeInsets.fromLTRB(20, 10, 20, 0),
+              padding: const EdgeInsets.fromLTRB(10, 10, 10, 0),
               child: TextField(
                 obscureText: true,
                 controller: passwordController,
